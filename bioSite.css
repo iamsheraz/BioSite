@@ -1,7 +1,7 @@
 body {
   min-width: 960px;
   font-family: 'Alegreya Sans', 'Times New Roman', Times, sans-serif;
-  background: url("images/waves3.jfif") no-repeat fixed;
+  background: url("images/waves3.jpg") no-repeat fixed;
   background-size: cover;
   background-position: center;
 }
@@ -293,7 +293,7 @@ h1
   font-weight: 700;
   font-family: 'Caveat', 'Times New Roman', Times, serif;
   font-size: 6em;
-  color: #7F0DD4;
+  color: #0a0a0a;
   opacity: 95%;
   text-align: center;
 }
@@ -334,7 +334,7 @@ img:hover
 h2
 {
   font-weight: 500;
-  color: #A51AEB;
+  color: #181d54;
   text-align: center;
   font-size: 1.6em;
 }
@@ -357,7 +357,7 @@ footer
 p
 {
   text-align: center;
-  color: white;
+  color: Black;
 }
 #about p
 {
