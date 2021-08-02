@@ -402,7 +402,7 @@ figcaption
 
 figure {
     display: inline-block;
-    border: 1px dotted gray;
+    border: 0px dotted gray;
     margin: 20px; /* adjust as needed */
 }
 figure img {
